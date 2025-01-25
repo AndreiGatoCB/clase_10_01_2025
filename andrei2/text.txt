@@ -1,3 +1,0 @@
-Python es un lenguaje
-txt es un formato
-md es otro formato
